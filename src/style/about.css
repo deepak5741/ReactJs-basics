@@ -1,0 +1,23 @@
+.abt{
+    background: rgb(117,121,9);
+    background: linear-gradient(90deg, rgba(117,121,9,1) 36%, rgba(0,212,255,1) 100%);
+height: 90vh;
+width: 100%;
+text-align: center;
+
+}
+
+.abttxt{
+color: white;
+padding: 10%;
+
+}
+.abttxt:hover{
+    color: tomato;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
